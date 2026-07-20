@@ -1,1 +1,15 @@
+remote_theme: pages-themes/hacker@v0.2.0
 
+plugins:
+  - jekyll-remote-theme
+
+title: "Kritik Kaushik"
+
+description: >
+  Software Engineer | Backend & MERN Developer | AI, RAG & Machine Learning |
+  Building scalable applications and solving complex problems.
+
+show_downloads: false
+
+github:
+  is_project_page: false
